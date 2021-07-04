@@ -20,15 +20,15 @@ a:hover{
 p{
     color: rgb(121, 115, 115);
 }
-section{
+.flex-container{
     display: flex;
     margin-bottom: 10%
 }
-.text-width{
+.half-width{
     width: 50%;
     padding-left:5%;
 }
-.text-width img{
+.half-width img{
     width: 80%;
 }
 .top-banner{
@@ -40,4 +40,7 @@ section{
     background-repeat:no-repeat;
     background-position: right;
     padding-right: 100px;
+}
+.orange-title{
+    color: orange;
 }
