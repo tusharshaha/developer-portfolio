@@ -44,3 +44,29 @@ p{
 .orange-title{
     color: orange;
 }
+.experience-item{
+   width: 50%;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding-left: 3%;
+   padding-right: 2px;
+   border-left: 7px solid rgba(255, 99, 71, 0.884);
+   box-shadow: 10px 10px 48px gray;
+   border-radius: 10px;
+   
+}
+.experience-aria{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+#web-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue ,cyan);
+    border-image-slice: 1;
+    
+}
+footer p{
+    text-align: center;
+}
